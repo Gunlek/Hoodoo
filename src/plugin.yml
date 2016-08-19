@@ -1,0 +1,8 @@
+author: Gunlek for NativGaming
+website: http://simple-duino.com
+version: 1.0
+main: com.simpleduino.hoodoo.Hoodoo
+name: Hoodoo
+commands:
+  hd:
+    description: Access to all Hoodoo commands
